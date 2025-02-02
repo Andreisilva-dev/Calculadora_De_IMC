@@ -62,6 +62,7 @@ body, input, button {
 
 form h1 {
     margin-bottom: 3.2rem;
+    text-align: center;
 }
 
 form label {
